@@ -1,0 +1,18 @@
+Cedula : 456
+Nombre : Ana
+Apellido : Gomez
+Telefono : 987654321
+Modalidad : virtual
+Asignaturas : 3
+Serial : 456
+
+
+Cedula : 71271350
+Nombre : laura
+Apellido : wreo
+Telefono : 3120202
+Modalidad : presencial
+Asignaturas : 5
+Serial : 2
+
+

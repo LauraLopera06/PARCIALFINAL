@@ -1,0 +1,18 @@
+Cedula : 123
+Nombre : Laura
+Apellido : Perez
+Telefono : 123456789
+Semestre : 5
+Promedio : 4.5
+Serial : S123
+
+
+Cedula : 1018
+Nombre : lara
+Apellido : lopera
+Telefono : 123455432
+Semestre : 4
+Promedio : 3.0
+Serial : 1
+
+
